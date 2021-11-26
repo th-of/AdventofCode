@@ -1,0 +1,339 @@
+bitwShiftR(b_n, 2) -> b_o
+bitwShiftR(l_f, 1) -> l_y
+bitwShiftR(f_o, 3) -> f_q
+bitwOr(c_j, c_p) -> c_q
+bitwOr(f_o, f_z) -> g_a
+bitwOr(t, s) -> u
+l_x -> a
+bitwNot(a_x) -> a_y
+bitwShiftR(h_e, 2) -> h_f
+bitwOr(l_f, l_q) -> l_r
+bitwAnd(l_r, l_t) -> l_u
+bitwOr(d_y, e_j) -> e_k
+bitwAnd(1, c_x) -> c_y
+bitwShiftL(h_b, 1) -> h_v
+bitwAnd(1, b_h) -> b_i
+bitwAnd(i_h, i_j) -> i_k
+bitwShiftL(c, 1) -> t
+bitwAnd(e_a, e_b) -> e_d
+bitwOr(k_m, k_n) -> k_o
+bitwNot(b_w) -> b_x
+bitwOr(c_i, c_t) -> c_u
+bitwNot(p) -> q
+bitwOr(l_w, l_v) -> l_x
+bitwNot(l_o) -> l_p
+bitwOr(f_p, f_v) -> f_w
+bitwAnd(o, q) -> r
+bitwAnd(d_h, d_j) -> d_k
+bitwShiftL(a_p, 1) -> b_j
+bitwShiftL(b_k, 1) -> c_e
+bitwNot(i_i) -> i_j
+bitwOr(g_h, g_i) -> g_j
+bitwShiftR(k_k, 1) -> l_d
+bitwShiftL(l_c, 1) -> l_w
+bitwOr(l_b, l_a) -> l_c
+bitwAnd(1, a_m) -> a_n
+bitwAnd(g_n, g_p) -> g_q
+bitwShiftR(l_f, 3) -> l_h
+bitwOr(e, f) -> g
+bitwAnd(l_g, l_m) -> l_o
+bitwShiftR(c_i, 1) -> d_b
+bitwShiftL(c_f, 1) -> c_z
+bitwShiftR(b_n, 1) -> c_g
+bitwAnd(e_t, f_e) -> f_g
+bitwOr(i_s, i_t) -> i_u
+bitwAnd(k_w, k_y) -> k_z
+bitwAnd(c_k, c_l) -> c_n
+bitwOr(b_j, b_i) -> b_k
+bitwShiftR(g_j, 1) -> h_c
+bitwAnd(i_u, j_f) -> j_h
+bitwNot(b_s) -> b_t
+bitwOr(k_k, k_v) -> k_w
+bitwAnd(k_s, k_u) -> k_v
+bitwOr(h_z, i_k) -> i_l
+bitwShiftR(b, 1) -> v
+bitwShiftR(i_u, 1) -> j_n
+bitwShiftR(f_o, 5) -> f_r
+bitwAnd(b_e, b_g) -> b_h
+bitwAnd(g_a, g_c) -> g_d
+bitwOr(h_f, h_l) -> h_m
+bitwOr(l_d, l_e) -> l_f
+bitwShiftR(a_s, 5) -> a_v
+bitwOr(f_m, f_n) -> f_o
+bitwAnd(h_m, h_o) -> h_p
+bitwOr(l_g, l_m) -> l_n
+bitwNot(k_x) -> k_y
+bitwShiftR(k_k, 3) -> k_m
+bitwAnd(e_k, e_m) -> e_n
+bitwNot(f_t) -> f_u
+bitwNot(j_h) -> j_i
+bitwOr(j_n, j_o) -> j_p
+bitwAnd(g_j, g_u) -> g_w
+bitwAnd(d, j) -> l
+bitwShiftR(e_t, 1) -> f_m
+bitwOr(j_q, j_w) -> j_x
+bitwOr(e_p, e_o) -> e_q
+bitwShiftL(l_v, 1_5) -> l_z
+bitwNot(e_y) -> e_z
+bitwShiftR(j_p, 2) -> j_q
+bitwAnd(e_g, e_i) -> e_j
+bitwNot(d_m) -> d_n
+bitwAnd(j_p, k_a) -> k_c
+bitwAnd(a_s, b_d) -> b_f
+bitwOr(f_k, f_j) -> f_l
+bitwOr(d_w, d_x) -> d_y
+bitwAnd(l_j, l_l) -> l_m
+bitwAnd(e_c, e_e) -> e_f
+bitwAnd(f_q, f_r) -> f_t
+bitwNot(k_p) -> k_q
+bitwOr(k_i, k_j) -> k_k
+bitwOr(c_z, c_y) -> d_a
+bitwShiftR(a_s, 3) -> a_u
+bitwShiftL(a_n, 1_5) -> a_r
+bitwShiftL(f_j, 1_5) -> f_n
+bitwAnd(1, f_i) -> f_j
+bitwShiftR(h_e, 1) -> h_x
+bitwShiftR(l_f, 2) -> l_g
+bitwShiftL(k_f, 1_5) -> k_j
+bitwAnd(d_z, e_f) -> e_h
+bitwOr(i_b, i_c) -> i_d
+bitwShiftR(l_f, 5) -> l_i
+bitwOr(b_p, b_q) -> b_r
+bitwNot(g_s) -> g_t
+bitwShiftR(f_o, 1) -> g_h
+bitwAnd(b_z, c_b) -> c_c
+bitwOr(e_a, e_b) -> e_c
+bitwAnd(l_f, l_q) -> l_s
+bitwNot(l) -> m
+bitwShiftR(h_z, 3) -> i_b
+bitwNot(d_i) -> d_j
+bitwNot(l_k) -> l_l
+bitwShiftR(j_p, 3) -> j_r
+bitwShiftR(j_p, 5) -> j_s
+bitwNot(b_f) -> b_g
+bitwShiftL(s, 1_5) -> w
+bitwShiftL(e_q, 1) -> f_k
+bitwOr(j_l, j_k) -> j_m
+bitwAnd(h_z, i_k) -> i_m
+bitwOr(d_z, e_f) -> e_g
+bitwAnd(1, g_y) -> g_z
+bitwShiftL(l_a, 1_5) -> l_e
+bitwAnd(b_r, b_t) -> b_u
+bitwNot(c_n) -> c_o
+bitwOr(v, w) -> x
+bitwOr(d, j) -> k
+bitwAnd(1, g_d) -> g_e
+bitwOr(i_a, i_g) -> i_h
+bitwNot(g_o) -> g_p
+bitwNot(e_d) -> e_e
+bitwAnd(j_q, j_w) -> j_y
+bitwOr(e_t, f_e) -> f_f
+bitwAnd(a_w, a_y) -> a_z
+bitwAnd(f_f, f_h) -> f_i
+bitwShiftL(i_r, 1) -> j_l
+bitwShiftL(g_g, 1) -> h_a
+bitwShiftR(x, 2) -> y
+bitwOr(d_b, d_c) -> d_d
+bitwOr(b_l, b_m) -> b_n
+bitwAnd(i_b, i_c) -> i_e
+bitwShiftR(x, 3) -> z
+bitwAnd(l_h, l_i) -> l_k
+bitwOr(c_e, c_d) -> c_f
+bitwNot(b_b) -> b_c
+bitwAnd(h_i, h_k) -> h_l
+bitwNot(g_b) -> g_c
+bitwAnd(1, r) -> s
+bitwAnd(f_w, f_y) -> f_z
+bitwAnd(f_b, f_d) -> f_e
+bitwAnd(1, e_n) -> e_o
+bitwOr(z, a_a) -> a_b
+bitwShiftL(b_i, 1_5) -> b_m
+bitwOr(h_g, h_h) -> h_i
+bitwShiftL(k_h, 1) -> l_b
+bitwOr(c_g, c_h) -> c_i
+bitwAnd(1, k_z) -> l_a
+bitwOr(g_f, g_e) -> g_g
+bitwShiftR(g_j, 2) -> g_k
+bitwShiftR(d_d, 2) -> d_e
+bitwNot(l_s) -> l_t
+bitwOr(l_h, l_i) -> l_j
+bitwOr(j_r, j_s) -> j_t
+bitwAnd(a_u, a_v) -> a_x
+0 -> c
+bitwAnd(h_e, h_p) -> h_r
+bitwAnd(i_d, i_f) -> i_g
+bitwShiftR(e_t, 5) -> e_w
+bitwAnd(b_p, b_q) -> b_s
+bitwAnd(e, f) -> h
+bitwOr(l_y, l_z) -> m_a
+bitwAnd(1, l_u) -> l_v
+bitwNot(j_d) -> j_e
+bitwOr(h_a, g_z) -> h_b
+bitwShiftR(d_y, 1) -> e_r
+bitwShiftR(i_u, 2) -> i_v
+bitwNot(h_r) -> h_s
+bitwShiftR(a_s, 1) -> b_l
+bitwShiftR(k_k, 2) -> k_l
+bitwAnd(b, n) -> p
+bitwAnd(l_n, l_p) -> l_q
+bitwAnd(c_j, c_p) -> c_r
+bitwAnd(d_l, d_n) -> d_o
+bitwShiftR(c_i, 2) -> c_j
+bitwOr(a_s, b_d) -> b_e
+bitwShiftL(g_e, 1_5) -> g_i
+bitwShiftR(h_z, 5) -> i_c
+bitwShiftL(d_v, 1) -> e_p
+bitwOr(k_l, k_r) -> k_s
+bitwOr(g_j, g_u) -> g_v
+bitwShiftR(h_e, 5) -> h_h
+bitwNot(f_g) -> f_h
+bitwAnd(h_g, h_h) -> h_j
+bitwOr(b, n) -> o
+bitwShiftL(j_k, 1_5) -> j_o
+bitwShiftL(g_z, 1_5) -> h_d
+bitwShiftL(c_y, 1_5) -> d_c
+bitwShiftR(k_k, 5) -> k_n
+bitwShiftR(c_i, 3) -> c_k
+bitwOr(a_t, a_z) -> b_a
+bitwShiftR(i_u, 3) -> i_w
+bitwAnd(k_o, k_q) -> k_r
+bitwNot(e_h) -> e_i
+bitwOr(a_q, a_r) -> a_s
+bitwAnd(i_y, j_a) -> j_b
+bitwShiftR(d_d, 3) -> d_f
+bitwShiftR(b_n, 3) -> b_p
+bitwAnd(1, c_c) -> c_d
+bitwAnd(a_t, a_z) -> b_b
+bitwOr(x, a_i) -> a_j
+bitwAnd(k_k, k_v) -> k_x
+bitwOr(a_o, a_n) -> a_p
+bitwShiftR(d_y, 3) -> e_a
+bitwShiftR(x, 1) -> a_q
+bitwAnd(e_u, f_a) -> f_c
+bitwAnd(k_l, k_r) -> k_t
+bitwAnd(i_a, i_g) -> i_i
+bitwAnd(d_f, d_g) -> d_i
+bitwNot(f_x) -> f_y
+bitwAnd(k, m) -> n
+bitwShiftR(b_n, 5) -> b_q
+bitwAnd(k_m, k_n) -> k_p
+bitwShiftL(d_t, 1_5) -> d_x
+bitwShiftR(h_z, 2) -> i_a
+bitwAnd(a_j, a_l) -> a_m
+bitwShiftL(c_d, 1_5) -> c_h
+bitwOr(h_c, h_d) -> h_e
+bitwShiftR(h_e, 3) -> h_g
+bitwOr(b_n, b_y) -> b_z
+bitwNot(k_t) -> k_u
+bitwAnd(z, a_a) -> a_c
+bitwNot(a_k) -> a_l
+bitwAnd(c_u, c_w) -> c_x
+bitwNot(i_e) -> i_f
+bitwShiftR(d_y, 2) -> d_z
+bitwShiftL(i_p, 1_5) -> i_t
+bitwOr(d_e, d_k) -> d_l
+bitwOr(a_u, a_v) -> a_w
+bitwAnd(j_g, j_i) -> j_j
+bitwAnd(c_i, c_t) -> c_v
+bitwShiftR(d_y, 5) -> e_b
+bitwOr(h_x, h_y) -> h_z
+bitwOr(e_u, f_a) -> f_b
+bitwShiftR(g_j, 3) -> g_l
+bitwAnd(f_o, f_z) -> g_b
+bitwAnd(1, j_j) -> j_k
+bitwOr(j_p, k_a) -> k_b
+bitwAnd(d_e, d_k) -> d_m
+bitwAnd(e_x, e_z) -> f_a
+bitwOr(d_f, d_g) -> d_h
+bitwOr(i_v, j_b) -> j_c
+bitwShiftR(x, 5) -> a_a
+bitwNot(h_j) -> h_k
+bitwNot(i_m) -> i_n
+bitwShiftL(f_l, 1) -> g_f
+bitwShiftL(h_u, 1_5) -> h_y
+bitwOr(i_q, i_p) -> i_r
+bitwShiftR(i_u, 5) -> i_x
+bitwNot(f_c) -> f_d
+bitwNot(e_l) -> e_m
+bitwOr(c_k, c_l) -> c_m
+bitwShiftR(e_t, 3) -> e_v
+bitwShiftL(h_w, 1) -> i_q
+bitwShiftR(c_i, 5) -> c_l
+bitwAnd(i_v, j_b) -> j_d
+bitwShiftR(d_d, 5) -> d_g
+bitwShiftR(a_s, 2) -> a_t
+bitwNot(j_y) -> j_z
+bitwAnd(a_f, a_h) -> a_i
+bitwAnd(1, d_s) -> d_t
+bitwAnd(j_x, j_z) -> k_a
+bitwShiftL(d_a, 1) -> d_u
+bitwAnd(f_s, f_u) -> f_v
+bitwShiftR(j_p, 1) -> k_i
+bitwAnd(i_w, i_x) -> i_z
+bitwOr(i_w, i_x) -> i_y
+bitwShiftL(e_o, 1_5) -> e_s
+bitwAnd(e_v, e_w) -> e_y
+bitwAnd(b_a, b_c) -> b_d
+bitwAnd(f_p, f_v) -> f_x
+bitwAnd(j_c, j_e) -> j_f
+bitwShiftR(e_t, 2) -> e_u
+bitwOr(k_g, k_f) -> k_h
+bitwOr(i_u, j_f) -> j_g
+bitwOr(e_r, e_s) -> e_t
+bitwShiftR(f_o, 2) -> f_p
+bitwNot(c_a) -> c_b
+bitwAnd(b_v, b_x) -> b_y
+bitwShiftL(u, 1) -> a_o
+bitwAnd(c_m, c_o) -> c_p
+bitwOr(y, a_e) -> a_f
+bitwAnd(b_n, b_y) -> c_a
+bitwAnd(1, k_e) -> k_f
+bitwAnd(j_t, j_v) -> j_w
+bitwOr(f_q, f_r) -> f_s
+bitwAnd(d_y, e_j) -> e_l
+bitwNot(k_c) -> k_d
+bitwOr(e_v, e_w) -> e_x
+bitwOr(d_d, d_o) -> d_p
+bitwNot(c_v) -> c_w
+bitwAnd(g_r, g_t) -> g_u
+bitwShiftR(d_d, 1) -> d_w
+bitwNot(g_w) -> g_x
+bitwNot(i_z) -> j_a
+bitwAnd(1, i_o) -> i_p
+bitwNot(a_g) -> a_h
+bitwShiftR(b, 5) -> f
+bitwNot(c_r) -> c_s
+bitwAnd(k_b, k_d) -> k_e
+bitwAnd(j_r, j_s) -> j_u
+bitwAnd(c_q, c_s) -> c_t
+bitwAnd(i_l, i_n) -> i_o
+bitwNot(j_u) -> j_v
+bitwOr(d_u, d_t) -> d_v
+bitwAnd(d_d, d_o) -> d_q
+bitwShiftR(b, 2) -> d
+bitwShiftL(j_m, 1) -> k_g
+bitwNot(d_q) -> d_r
+bitwOr(b_o, b_u) -> b_v
+bitwOr(g_k, g_q) -> g_r
+bitwOr(h_e, h_p) -> h_q
+bitwNot(h) -> i
+bitwAnd(h_f, h_l) -> h_n
+bitwAnd(g_v, g_x) -> g_y
+bitwAnd(x, a_i) -> a_k
+bitwAnd(b_o, b_u) -> b_w
+bitwAnd(h_q, h_s) -> h_t
+bitwShiftR(h_z, 1) -> i_s
+bitwShiftR(g_j, 5) -> g_m
+bitwAnd(g, i) -> j
+bitwAnd(g_k, g_q) -> g_s
+bitwAnd(d_p, d_r) -> d_s
+bitwShiftR(b, 3) -> e
+bitwAnd(g_l, g_m) -> g_o
+bitwOr(g_l, g_m) -> g_n
+bitwAnd(y, a_e) -> a_g
+bitwOr(h_v, h_u) -> h_w
+1674 -> b
+bitwAnd(a_b, a_d) -> a_e
+bitwNot(a_c) -> a_d
+bitwAnd(1, h_t) -> h_u
+bitwNot(h_n) -> h_o
